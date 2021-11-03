@@ -21,6 +21,11 @@ The things I do when setting up a new Mac
 - [ ] Login all accounts
 - [ ] CMD + Shift + D => Debug Area > Show Debug Area
 
+## Spark
+
+- [ ] Login all accounts
+- [ ] Make default mail app: Mail.app – Preferences - General – Default email reader
+
 ## Finder
 
 - [ ] Show Path Bar: View – Show Path Bar
