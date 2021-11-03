@@ -1,43 +1,17 @@
 # Mac apps
 vlc
-spotify
 telegram
 slack
-tower
-arq
-postico
-charles
-postgres
-iterm2
-1password
-alfred
-fantastical
-bettertouchtool
+fork
 sublime-text
-timing
-rescuetime
-bartender
-aware
-little-snitch
-micro-snitch
-messenger
-overkill
-istat-menus
-bitbar
 paw
-proxyman
-keybase
-ngrok
+setapp
+raycast
+discord
+zoom
+transmission
 visual-studio-code
-monitorcontrol
-
-# Personal
-tripmode
-expressvpn
-steam
-prey
 
 # Quicklook plugins
 quicklook-csv
 quicklook-json
-provisionql
