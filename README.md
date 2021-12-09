@@ -24,7 +24,7 @@ The things I do when setting up a new Mac
 ## Spark
 
 - [ ] Login all accounts
-- [ ] Make default mail app: Mail.app – Preferences - General – Default email reader
+- [ ] Make default mail app: Mail.app – Preferences – General – Default email reader
 
 ## Finder
 
