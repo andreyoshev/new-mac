@@ -19,7 +19,7 @@ The things I do when setting up a new Mac
 ## Xcode
 
 - [ ] Login all accounts
-- [ ] CMD + Shift + D => Debug Area > Show Debug Area
+- [ ] CMD + Shift + D – Debug Area – Show Debug Area
 
 ## Spark
 
@@ -30,6 +30,7 @@ The things I do when setting up a new Mac
 
 - [ ] Show Path Bar: View – Show Path Bar
 - [ ] Remove labels and clean up Sidebar
+- [ ] CMD + § – Keyboard – Shortcuts – Move focus to next window
 
 ## Dock
 
