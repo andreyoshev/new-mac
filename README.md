@@ -37,6 +37,7 @@ The things I do when setting up a new Mac
 
 - [ ] Auto-hide dock
 - [ ] Remove all the  things
+- [ ] Disable showing recents apps in dock
 
 ## Install and setup
 
@@ -63,6 +64,7 @@ The things I do when setting up a new Mac
 ## Other
 
 - [ ] Enable iMessages Cloud sync
+- [ ] Enable iMessage send read receipts
 - [ ] Make emojis faster using `defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false`
 - [ ] Enable taps for trackpad
 - [ ] Increase trackpad speed
