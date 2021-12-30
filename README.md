@@ -19,7 +19,7 @@ The things I do when setting up a new Mac
 
 ## Xcode
 
-- [ ] xip - x path/to/xcode
+- [ ] xip -x path/to/xcode
 - [ ] Login all accounts
 - [ ] CMD + Shift + D – Debug Area – Show Debug Area
 - [ ] defaults write com.apple.dt.Xcode ShowBuildOperationDuration YES
