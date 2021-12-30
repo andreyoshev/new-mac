@@ -21,6 +21,10 @@ The things I do when setting up a new Mac
 - [ ] xip - x path/to/xcode
 - [ ] Login all accounts
 - [ ] CMD + Shift + D – Debug Area – Show Debug Area
+- [ ] defaults write com.apple.dt.Xcode ShowBuildOperationDuration YES
+- [ ] Tabs: https://www.jessesquires.com/blog/2020/07/24/how-to-fix-the-incomprehensible-tabs-in-xcode-12/
+- [ ] Install [JB Mono](https://www.jetbrains.com/ru-ru/lp/mono/) fonts
+- [ ] Place theme files to /Users/a.oshev/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 ## Spark
 
