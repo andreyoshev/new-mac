@@ -8,6 +8,7 @@ The things I do when setting up a new Mac
 - [ ] Install [Caskfile](Caskfile) and [Brewfile](Brewfile)
 - [ ] Install [Cocoapods](https://cocoapods.org)
 - [ ] Login locally on GitHub
+- [ ] Git LFS
 - [ ] Transfer `~/!Project` folder using Airdrop
 - [ ] [Disable Ruby documentation parsing](http://mts.io/2015/04/19/fix-slow-gem-install/)
 
